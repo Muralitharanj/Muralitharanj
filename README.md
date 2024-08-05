@@ -1,5 +1,6 @@
  <h1 align="center">Hi 👋, I'm Muralitharan</h1>
-<h3 align="center">A passionate frontend DevOps Engineer from India</h3>
+<h3 align="center">A passionate frontend DevOps Engineer from India I'm a passionate DevOps Engineer with a strong background in automating and streamlining operations and processes. With expertise in continuous integration and continuous deployment (CI/CD), I thrive on enhancing software development pipelines and infrastructure management. My goal is to bridge the gap between development and operations to create efficient and reliable software delivery systems.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muralitharanj&label=Profile%20views&color=0e75b6&style=flat" alt="muralitharanj" /> </p>
 
